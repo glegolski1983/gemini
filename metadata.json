@@ -1,0 +1,8 @@
+{
+  "name": "Panel Opisowy - Katalog Produktów",
+  "version": "1.0.0-VER1",
+  "description": "A sophisticated product management dashboard with AI-powered features for generating product descriptions and semantic searching.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
